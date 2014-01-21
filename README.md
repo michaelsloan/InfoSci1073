@@ -3,14 +3,14 @@ InfoSci1073
 
 This is a Repo!  
 
-Jay Palat / vpalat@pitt.edu
+Michael Sloan / mls161@pitt.edu
 ==================
 Three Facts About Me
 ---
 
-*   I enjoy reading.
-*   I am a Pitt Graduate.
-*   I have run a half-marathon.
+*   I am from Atlanta, GA.
+*   I am graduating in April.
+*   I enjoy snowboarding.
 
 ---
 Make some changes locally.  I want to add  a sentence.
