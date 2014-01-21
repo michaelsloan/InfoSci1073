@@ -13,4 +13,4 @@ Three Facts About Me
 *   I enjoy snowboarding.
 
 ---
-Make some changes locally.  I want to add  a sentence.
+Make some changes locally.
